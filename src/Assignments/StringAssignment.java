@@ -5,7 +5,7 @@ public class StringAssignment {
 	public static void main(String[] args) {
 		
 		//1.Replace the 1st char of each word with caps
-		String str = "this is a new task. please get it done.";
+		String str = "this is a new task. please get it done.Now!";
 		
 		String newstr[] = str.split(" ");
 		String mystr = null;
